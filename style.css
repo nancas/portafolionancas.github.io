@@ -1,0 +1,43 @@
+body{
+    background-color: #EDECEB;
+}
+
+main{
+    height: 100vh;
+}
+
+.card{
+    width:auto;
+    border: none;
+    text-align: center;
+    padding: 10px;
+    box-shadow: none;
+    background-color: #EDECEB;
+}
+
+.card img{
+    width: 200px;
+    border-radius: 50%;
+    margin:auto;
+}
+
+.grey{
+    background-color: #EDECEB;
+    min-height: 75vh;
+}
+
+.white{
+    background-color: #F8F8F8;
+}
+
+.docker img{
+    width: 80px;
+}
+
+.vue img{
+    width: 50px;
+}
+
+.mantenimiento img{
+    width: 50px;
+}
